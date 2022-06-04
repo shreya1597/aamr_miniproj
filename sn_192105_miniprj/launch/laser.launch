@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="sn_192105_miniprj" type="laser_scan.py" name="laser_scan" output="screen">
+  </node>
+</launch>
